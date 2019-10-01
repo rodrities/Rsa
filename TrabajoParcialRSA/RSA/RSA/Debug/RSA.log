@@ -1,0 +1,14 @@
+﻿  MyForm.cpp
+d:\mate computacional\trabajoparcialrsa\rsa\rsa\rsa.h(117): warning C4244: 'inicializando': conversión de 'unsigned __int64' a 'char'; posible pérdida de datos
+d:\mate computacional\trabajoparcialrsa\rsa\rsa\rsa.h(112): warning C4101: 'code': variable local sin referencia
+d:\mate computacional\trabajoparcialrsa\rsa\rsa\myform.h(385): warning C4018: '<': no coinciden signed/unsigned
+d:\mate computacional\trabajoparcialrsa\rsa\rsa\myform.h(422): warning C4018: '<': no coinciden signed/unsigned
+d:\mate computacional\trabajoparcialrsa\rsa\rsa\myform.cpp(5): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocnum(1628): fatal error C1088: No se puede vaciar el archivo intermedio para compilador: 'C:\Users\rodri\AppData\Local\Temp\_CL_11acbf23sy': No space left on device
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocnum(1623): note: durante la compilación de la función miembro de plantilla clase de '_OutIt std::num_put<char,_OutIt>::do_put(_OutIt,std::ios_base &,_Elem,const void *) const'
+          with
+          [
+              _OutIt=std::ostreambuf_iterator<char,std::char_traits<char>>,
+              _Elem=char
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\xlocnum(1852): note: vea la referencia a la creación de instancias de plantilla clase de 'std::num_put<char,std::ostreambuf_iterator<char,std::char_traits<char>>>' que se está compilando
